@@ -34,7 +34,7 @@
 
 ## 🗃️: ERD
 
-![시스템구조도](https://github.com/user-attachments/assets/96c08261-dbc7-4832-a195-af3a499fde27)
+![시스템구조도](https://github.com/user-attachments/assets/41a6ed8c-4cd1-484e-b701-49c872613eb5)
 
 </br>
 
