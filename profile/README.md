@@ -54,9 +54,11 @@
 
 #### 웹
 
-<img width="470" alt="web1" src="https://github.com/user-attachments/assets/5bc5635b-7e90-4daf-91c4-80886ec736e8">
-<img width="470" alt="web2" src="https://github.com/user-attachments/assets/fe487b8e-ad60-4718-b656-60aef84ea1d2">
-<img width="470" alt="web2" src="https://github.com/user-attachments/assets/34aeb767-07b8-4cc6-a455-8bc32e3261bd">
+<img width="470" alt="web1" src="https://github.com/user-attachments/assets/0e2c7154-8c7b-4577-b4d4-0ee29aa3372e">
+<img width="470" alt="web2" src="https://github.com/user-attachments/assets/6337206e-0392-4613-94af-8ad01ae43d72">
+<img width="470" alt="web2" src="https://github.com/user-attachments/assets/4036812b-45ce-40e3-9a83-5b86b989a454">
+<img width="470" alt="web2" src="https://github.com/user-attachments/assets/f7703a3c-e8fe-4e38-bb8a-2ba02ba3ce31">
+<img width="470" alt="web2" src="https://github.com/user-attachments/assets/f07988a5-a5a9-49a9-9bdd-f0fb15fc8d14">
 
 #### 앱
 
