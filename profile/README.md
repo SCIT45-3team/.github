@@ -16,11 +16,11 @@
 
 ## :pushpin: Repository
 
-##### [Yomakase Web](https://github.com/SCIT45-3team/Yomakase_Web.git)
+##### [Yomakase Web](https://github.com/SCIT45-Yomakase/Yomakase_Web.git)
 
-##### [Fast API Server](https://github.com/SCIT45-3team/DataProcessing.git)
+##### [Fast API Server](https://github.com/SCIT45-Yomakase/DataProcessing.git)
 
-##### [Yomakase App](https://github.com/SCIT45-3team/Yomakase_App.git)
+##### [Yomakase App](https://github.com/SCIT45-Yomakase/Yomakase_App.git)
 </br>
 
 ## :computer: 팀원
@@ -59,6 +59,7 @@
 <img width="470" alt="web2" src="https://github.com/user-attachments/assets/4036812b-45ce-40e3-9a83-5b86b989a454">
 <img width="470" alt="web2" src="https://github.com/user-attachments/assets/f7703a3c-e8fe-4e38-bb8a-2ba02ba3ce31">
 <img width="470" alt="web2" src="https://github.com/user-attachments/assets/f07988a5-a5a9-49a9-9bdd-f0fb15fc8d14">
+<img width="470" alt="web2"src="https://github.com/user-attachments/assets/85f1fab1-3bc3-4a11-b1ff-f1a00b23616c">
 
 #### 앱
 
