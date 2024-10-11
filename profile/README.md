@@ -16,7 +16,7 @@
 
 ## :pushpin: Repository
 
-##### [Yomakase Web](https://github.com/SCIT45-3team/Yomakase_Web.git)
+##### [Yomakase Web](https://github.com/SCIT45-3team/Yomakase_Web.git)
 
 ##### [Fast API Server](https://github.com/SCIT45-3team/DataProcessing.git)
 
