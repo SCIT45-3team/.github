@@ -54,12 +54,12 @@
 
 #### 웹
 
-<img width="470" alt="web1" src="https://github.com/user-attachments/assets/0e2c7154-8c7b-4577-b4d4-0ee29aa3372e">
-<img width="470" alt="web2" src="https://github.com/user-attachments/assets/6337206e-0392-4613-94af-8ad01ae43d72">
-<img width="470" alt="web2" src="https://github.com/user-attachments/assets/4036812b-45ce-40e3-9a83-5b86b989a454">
-<img width="470" alt="web2" src="https://github.com/user-attachments/assets/f7703a3c-e8fe-4e38-bb8a-2ba02ba3ce31">
-<img width="470" alt="web2" src="https://github.com/user-attachments/assets/f07988a5-a5a9-49a9-9bdd-f0fb15fc8d14">
-<img width="470" alt="web2"src="https://github.com/user-attachments/assets/85f1fab1-3bc3-4a11-b1ff-f1a00b23616c">
+<img width="400" alt="home" src="https://github.com/user-attachments/assets/0e2c7154-8c7b-4577-b4d4-0ee29aa3372e">
+<img width="400" alt="web1"src="https://github.com/user-attachments/assets/85f1fab1-3bc3-4a11-b1ff-f1a00b23616c">
+<img width="400" alt="web2" src="https://github.com/user-attachments/assets/6337206e-0392-4613-94af-8ad01ae43d72">
+<img width="400" alt="web3" src="https://github.com/user-attachments/assets/4036812b-45ce-40e3-9a83-5b86b989a454">
+<img width="400" alt="web4" src="https://github.com/user-attachments/assets/f7703a3c-e8fe-4e38-bb8a-2ba02ba3ce31">
+<img width="400" alt="web5" src="https://github.com/user-attachments/assets/f07988a5-a5a9-49a9-9bdd-f0fb15fc8d14">
 
 #### 앱
 
