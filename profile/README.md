@@ -34,13 +34,13 @@
 
 ## 🗃️: ERD
 
-![시스템구조도](https://github.com/user-attachments/assets/2ea358e4-86a4-4646-8fca-c9231f755844)
+![시스템구조도](https://github.com/user-attachments/assets/96c08261-dbc7-4832-a195-af3a499fde27)
 
 </br>
 
 ## :construction: 시스템 구조도
 
-![시스템구조도](https://github.com/user-attachments/assets/c5386718-1d0a-4bf7-9ed1-26308bf43623)
+![시스템구조도](https://github.com/user-attachments/assets/64aa8502-a467-4e22-9493-366f2d8d800b)
 
 </br>
 
@@ -60,6 +60,6 @@
 
 #### 앱
 
-<img width="1337" alt="image" src="https://github.com/user-attachments/assets/dce41e18-b39f-48e2-8c89-bf3fba0130e7">
-<img width="1337" alt="image" src="https://github.com/user-attachments/assets/266209d8-dcdf-4333-81c9-0cb568d2d744">
+<img width="1337" alt="image" src="https://github.com/user-attachments/assets/33243f69-9ac4-4f71-a201-1f1caeb87779">
+<img width="1337" alt="image" src="https://github.com/user-attachments/assets/27318f21-8a11-4ed2-a570-b5b16df10768">
 
