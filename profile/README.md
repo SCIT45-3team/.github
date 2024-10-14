@@ -46,6 +46,8 @@
 
 ## :movie_camera: 시연 영상
 
+###### 클릭하면 유튜브로 이동합니다
+
 [![시연 영상](https://img.youtube.com/vi/0QZf6FBASxE/0.jpg)](https://www.youtube.com/watch?v=0QZf6FBASxE)
 
 </br>
