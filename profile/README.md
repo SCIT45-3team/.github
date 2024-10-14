@@ -7,7 +7,7 @@
 
 * [Repository](#pushpin-repository)
 * [팀원](#computer-팀원)
-* [ERD](#construction-ERD)
+* [ERD](#notebook_with_decorative_cover-ERD)
 * [시스템 구조도](#construction-시스템-구조도)
 * [시연 영상](#movie_camera-시연-영상)
 * [실행 화면](#camera-실행-화면)
@@ -32,7 +32,7 @@
 
 </br>
 
-## 🗃️: ERD
+## :notebook_with_decorative_cover: ERD
 
 ![시스템구조도](https://github.com/user-attachments/assets/41a6ed8c-4cd1-484e-b701-49c872613eb5)
 
